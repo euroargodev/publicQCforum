@@ -1,4 +1,4 @@
-# Argo Quality Control forum
+![Argo Quality Control forum](https://github.com/euroargodev/publicQCforum/raw/master/publicQCforum.jpeg)
 
 This repository is here to build a knowledge database and a forum about Quality Control (QC) of Argo data.
 
@@ -14,5 +14,3 @@ This forum is about everything related to Argo QC, for instance:
 - Illustration of Argo data errors and how to fix them
 - Access and content of reference database
 - etc ...
-
-Rq: This repository has been set-up by the European community of nation contributors to the Argo programme. If this initiative is successfull (gathering a significant amount of information and community discussions), it will be proposed for the ADMT endorsement and transfered to https://github.com/ArgoDMQC/.
